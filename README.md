@@ -4,3 +4,4 @@ Simple Webshop written in Django
 * PDF Invoice
 * Export CSV
 * PayPal payment
+* internationalization
